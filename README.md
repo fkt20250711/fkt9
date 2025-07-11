@@ -16,4 +16,4 @@
 
 为了提升用户体验，我们还鼓励大家参与评论、评分和分享影片，与其他影迷共同交流心得，共同发现更多精彩内容。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250711/fkt9)</span>
